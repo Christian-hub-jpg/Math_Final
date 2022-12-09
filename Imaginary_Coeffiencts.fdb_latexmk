@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber Imaginary_Coeffiencts"] 1670523535 "Imaginary_Coeffiencts.bcf" "Imaginary_Coeffiencts.bbl" "Imaginary_Coeffiencts" 1670608331
-  "Imaginary_Coeffiencts.bcf" 1670608331 121864 5ae8c409b6aa1dbcdc93f0376f44c553 "pdflatex"
+["biber Imaginary_Coeffiencts"] 1670523535 "Imaginary_Coeffiencts.bcf" "Imaginary_Coeffiencts.bbl" "Imaginary_Coeffiencts" 1670608427
+  "Imaginary_Coeffiencts.bcf" 1670608426 121864 5ae8c409b6aa1dbcdc93f0376f44c553 "pdflatex"
   (generated)
   "Imaginary_Coeffiencts.bbl"
   "Imaginary_Coeffiencts.blg"
-["pdflatex"] 1670608327 "/home/coca/Documents/Code/Latex/Math_Final/Imaginary_Coeffiencts.tex" "Imaginary_Coeffiencts.pdf" "Imaginary_Coeffiencts" 1670608331
-  "/home/coca/Documents/Code/Latex/Math_Final/Imaginary_Coeffiencts.tex" 1670608326 611 64ad209f15087f423e8965f0131e4c6a ""
+["pdflatex"] 1670608424 "/home/coca/Documents/Code/Latex/Math_Final/Imaginary_Coeffiencts.tex" "Imaginary_Coeffiencts.pdf" "Imaginary_Coeffiencts" 1670608427
+  "/home/coca/Documents/Code/Latex/Math_Final/Imaginary_Coeffiencts.tex" 1670608423 502 296dc1479344928da9468ba8aa5b179b ""
   "/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1650179560 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1650183167 1288 655e228510b4c2a1abe905c368440826 ""
@@ -116,11 +116,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1669173405 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1669173383 2927664 8f9b6de3abfd2e1013b36a1920bf3fea ""
-  "Imaginary_Coeffiencts.aux" 1670608331 876 ffbfbfc97a0ae23ce61542fa8adc4d18 "pdflatex"
+  "Imaginary_Coeffiencts.aux" 1670608426 876 ffbfbfc97a0ae23ce61542fa8adc4d18 "pdflatex"
   "Imaginary_Coeffiencts.bbl" 1670523537 466 ee04f40f768daeed26442158e95aba61 "biber Imaginary_Coeffiencts"
   "Imaginary_Coeffiencts.out" 0 -1 0 "pdflatex"
-  "Imaginary_Coeffiencts.run.xml" 1670608331 2663 a99335f7a9333d3108db114765b714e6 "pdflatex"
-  "Imaginary_Coeffiencts.tex" 1670608326 611 64ad209f15087f423e8965f0131e4c6a ""
+  "Imaginary_Coeffiencts.run.xml" 1670608426 2663 a99335f7a9333d3108db114765b714e6 "pdflatex"
+  "Imaginary_Coeffiencts.tex" 1670608423 502 296dc1479344928da9468ba8aa5b179b ""
   (generated)
   "Imaginary_Coeffiencts.aux"
   "Imaginary_Coeffiencts.bcf"
