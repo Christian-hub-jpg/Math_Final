@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.22)  9 DEC 2022 12:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.22)  9 DEC 2022 14:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -690,9 +690,17 @@ LaTeX Info: Redefining \nameref on input line 11.
 \@outlinefile=\write4
 \openout4 = `Imaginary_Coeffiencts.out'.
 
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.0pt on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
 
 
-LaTeX Warning: Empty bibliography on input line 16.
+LaTeX Warning: Empty bibliography on input line 19.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -704,18 +712,18 @@ Package logreq Info: Writing requests to 'Imaginary_Coeffiencts.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22291 strings out of 478238
- 416955 string characters out of 5850455
- 1191552 words of memory out of 5000000
- 40260 multiletter control sequences out of 15000+600000
- 471419 words of font info for 32 fonts, out of 8000000 for 9000
+ 22319 strings out of 478238
+ 417265 string characters out of 5850455
+ 1196553 words of memory out of 5000000
+ 40275 multiletter control sequences out of 15000+600000
+ 476726 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,11n,131p,1491b,4511s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}</usr/share/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
-Output written on Imaginary_Coeffiencts.pdf (1 page, 35223 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
+Output written on Imaginary_Coeffiencts.pdf (1 page, 119782 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
