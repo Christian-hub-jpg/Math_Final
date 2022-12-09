@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[1] Config.pm:310> INFO - Logfile is 'Imaginary_Coeffiencts.blg'
+[161] biber:340> INFO - === Thu Dec  8, 2022, 13:18:57
+[194] Biber.pm:418> INFO - Reading 'Imaginary_Coeffiencts.bcf'
+[341] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[365] bbl.pm:654> INFO - Writing 'Imaginary_Coeffiencts.bbl' with encoding 'UTF-8'
+[366] bbl.pm:757> INFO - Output to Imaginary_Coeffiencts.bbl
+[366] Biber.pm:130> WARN - The file 'Imaginary_Coeffiencts.bcf' does not contain any citations!
+[366] Biber.pm:132> INFO - WARNINGS: 1
