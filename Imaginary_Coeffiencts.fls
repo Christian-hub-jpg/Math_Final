@@ -852,16 +852,6 @@ INPUT /usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT ./Imaginary_Coeffiencts.out
-INPUT Imaginary_Coeffiencts.out
-INPUT ./Imaginary_Coeffiencts.out
-INPUT Imaginary_Coeffiencts.out
-INPUT ./Imaginary_Coeffiencts.out
-INPUT Imaginary_Coeffiencts.out
-INPUT ./Imaginary_Coeffiencts.out
-INPUT Imaginary_Coeffiencts.out
-INPUT ./Imaginary_Coeffiencts.out
-INPUT ./Imaginary_Coeffiencts.out
 OUTPUT Imaginary_Coeffiencts.out
 OUTPUT Imaginary_Coeffiencts.pdf
 INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/ntx-Regular-tlf-ot1.vf
