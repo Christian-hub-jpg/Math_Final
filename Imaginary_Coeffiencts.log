@@ -1,0 +1,842 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.17)  10 DEC 2022 21:40
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/gumba/OneDrive/Documents/Code/Math_Final/Imaginary_Coeffiencts.tex
+(c:/Users/gumba/OneDrive/Documents/Code/Math_Final/Imaginary_Coeffiencts.tex
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02> (c:/texlive/2022/texmf-dist/tex/latex/mlacls/mla.cls
+Document Class: mla 2021/09/14 v1.0 MLA Paper Class
+(c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(c:/texlive/2022/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen140
+) (c:/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks16
+\labelindent=\skip49
+\enit@outerparindent=\dimen141
+\enit@toks=\toks17
+\enit@inbox=\box51
+\enit@count@id=\count193
+\enitdp@description=\count194
+) (c:/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+) (c:/texlive/2022/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip59
+) (c:/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2022/11/13 v3.2 ragged2e Package
+\CenteringLeftskip=\skip60
+\RaggedLeftLeftskip=\skip61
+\RaggedRightLeftskip=\skip62
+\CenteringRightskip=\skip63
+\RaggedLeftRightskip=\skip64
+\RaggedRightRightskip=\skip65
+\CenteringParfillskip=\skip66
+\RaggedLeftParfillskip=\skip67
+\RaggedRightParfillskip=\skip68
+\JustifyingParfillskip=\skip69
+\CenteringParindent=\skip70
+\RaggedLeftParindent=\skip71
+\RaggedRightParindent=\skip72
+\JustifyingParindent=\skip73
+) (c:/texlive/2022/texmf-dist/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2022/02/28 v1.71(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
+ `newtxtext' v1.71, 2022/02/28 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (c:/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+ (c:/texlive/2022/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count195
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (c:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+) (c:/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (c:/texlive/2022/texmf-dist/tex/generic/xstring/xstring.sty (c:/texlive/2022/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count197
+\decimalpart=\count198
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+) (c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 21.
+LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 21.
+LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 21.
+LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 21.
+ (c:/texlive/2022/texmf-dist/tex/generic/kastrup/binhex.tex)
+\ntx@tmpcnta=\count199
+\ntx@cnt=\count266
+
+ntx@otftextfalse
+(c:/texlive/2022/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 657.
+) (c:/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box52
+\beforetitleunit=\skip74
+\aftertitleunit=\skip75
+\ttl@plus=\dimen142
+\ttl@minus=\dimen143
+\ttl@toksa=\toks20
+\titlewidth=\dimen144
+\titlewidthlast=\dimen145
+\titlewidthfirst=\dimen146
+) (c:/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/10/23 3.82 The Babel package
+\babel@savecnt=\count267
+\U@D=\dimen147
+\l@unhyphenated=\language87
+ (c:/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count268
+ (c:/texlive/2022/texmf-dist/tex/generic/babel-english/american.ldf
+Language: american 2017/06/06 v3.3r English support from the babel system
+ (c:/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+))) (c:/texlive/2022/texmf-dist/tex/generic/babel/locale/en/babel-american.tex
+Package babel Info: Importing font and identification data for american
+(babel)             from babel-en-US.ini. Reported on input line 11.
+) (c:/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count269
+\csq@gtype=\count270
+\csq@glevel=\count271
+\csq@qlevel=\count272
+\csq@maxlvl=\count273
+\csq@tshold=\count274
+\csq@ltx@everypar=\toks21
+ (c:/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (c:/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)) (c:/texlive/2022/texmf-dist/tex/latex/hanging/hanging.sty
+Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
+\h@ngcommawd=\skip76
+\h@ngfstopwd=\skip77
+\h@ngquotewd=\skip78
+\h@ngdquotewd=\skip79
+\h@ngquerywd=\skip80
+\h@ngexclwd=\skip81
+\h@ngcolonwd=\skip82
+\h@ngscolonwd=\skip83
+) (c:/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+ (c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (c:/texlive/2022/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (c:/texlive/2022/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count275
+ (c:/texlive/2022/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count276
+\c@listtotal=\count277
+\c@listcount=\count278
+\c@liststart=\count279
+\c@liststop=\count280
+\c@citecount=\count281
+\c@citetotal=\count282
+\c@multicitecount=\count283
+\c@multicitetotal=\count284
+\c@instcount=\count285
+\c@maxnames=\count286
+\c@minnames=\count287
+\c@maxitems=\count288
+\c@minitems=\count289
+\c@citecounter=\count290
+\c@maxcitecounter=\count291
+\c@savedcitecounter=\count292
+\c@uniquelist=\count293
+\c@uniquename=\count294
+\c@refsection=\count295
+\c@refsegment=\count296
+\c@maxextratitle=\count297
+\c@maxextratitleyear=\count298
+\c@maxextraname=\count299
+\c@maxextradate=\count300
+\c@maxextraalpha=\count301
+\c@abbrvpenalty=\count302
+\c@highnamepenalty=\count303
+\c@lownamepenalty=\count304
+\c@maxparens=\count305
+\c@parenlevel=\count306
+\blx@tempcnta=\count307
+\blx@tempcntb=\count308
+\blx@tempcntc=\count309
+\c@blx@maxsection=\count310
+\blx@maxsegment@0=\count311
+\blx@notetype=\count312
+\blx@parenlevel@text=\count313
+\blx@parenlevel@foot=\count314
+\blx@sectionciteorder@0=\count315
+\blx@sectionciteorderinternal@0=\count316
+\blx@entrysetcounter=\count317
+\blx@biblioinstance=\count318
+\labelnumberwidth=\skip84
+\labelalphawidth=\skip85
+\biblabelsep=\skip86
+\bibitemsep=\skip87
+\bibnamesep=\skip88
+\bibinitsep=\skip89
+\bibparsep=\skip90
+\bibhang=\skip91
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language88
+\c@mincomprange=\count319
+\c@maxcomprange=\count320
+\c@mincompwidth=\count321
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'mla-new.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count322
+\c@savedafterword=\count323
+\c@annotator=\count324
+\c@savedannotator=\count325
+\c@author=\count326
+\c@savedauthor=\count327
+\c@bookauthor=\count328
+\c@savedbookauthor=\count329
+\c@commentator=\count330
+\c@savedcommentator=\count331
+\c@editor=\count332
+\c@savededitor=\count333
+\c@editora=\count334
+\c@savededitora=\count335
+\c@editorb=\count336
+\c@savededitorb=\count337
+\c@editorc=\count338
+\c@savededitorc=\count339
+\c@foreword=\count340
+\c@savedforeword=\count341
+\c@holder=\count342
+\c@savedholder=\count343
+\c@introduction=\count344
+\c@savedintroduction=\count345
+\c@namea=\count346
+\c@savednamea=\count347
+\c@nameb=\count348
+\c@savednameb=\count349
+\c@namec=\count350
+\c@savednamec=\count351
+\c@translator=\count352
+\c@savedtranslator=\count353
+\c@shortauthor=\count354
+\c@savedshortauthor=\count355
+\c@shorteditor=\count356
+\c@savedshorteditor=\count357
+\c@labelname=\count358
+\c@savedlabelname=\count359
+\c@institution=\count360
+\c@savedinstitution=\count361
+\c@lista=\count362
+\c@savedlista=\count363
+\c@listb=\count364
+\c@savedlistb=\count365
+\c@listc=\count366
+\c@savedlistc=\count367
+\c@listd=\count368
+\c@savedlistd=\count369
+\c@liste=\count370
+\c@savedliste=\count371
+\c@listf=\count372
+\c@savedlistf=\count373
+\c@location=\count374
+\c@savedlocation=\count375
+\c@organization=\count376
+\c@savedorganization=\count377
+\c@origlocation=\count378
+\c@savedoriglocation=\count379
+\c@origpublisher=\count380
+\c@savedorigpublisher=\count381
+\c@publisher=\count382
+\c@savedpublisher=\count383
+\c@language=\count384
+\c@savedlanguage=\count385
+\c@origlanguage=\count386
+\c@savedoriglanguage=\count387
+\c@pageref=\count388
+\c@savedpageref=\count389
+\shorthandwidth=\skip92
+\shortjournalwidth=\skip93
+\shortserieswidth=\skip94
+\shorttitlewidth=\skip95
+\shortauthorwidth=\skip96
+\shorteditorwidth=\skip97
+\locallabelnumberwidth=\skip98
+\locallabelalphawidth=\skip99
+\localshorthandwidth=\skip100
+\localshortjournalwidth=\skip101
+\localshortserieswidth=\skip102
+\localshorttitlewidth=\skip103
+\localshortauthorwidth=\skip104
+\localshorteditorwidth=\skip105
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count390
+\c@textcitetotal=\count391
+\c@textcitemaxnames=\count392
+\c@biburlbigbreakpenalty=\count393
+\c@biburlbreakpenalty=\count394
+\c@biburlnumpenalty=\count395
+\c@biburlucpenalty=\count396
+\c@biburllcpenalty=\count397
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count398
+)
+Package biblatex Info: Trying to load bibliography style 'mla-new'...
+Package biblatex Info: ... file 'mla-new.bbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex-mla/mla-new.bbx
+File: mla-new.bbx 2022/02/22 v2.1a biblatex citation style
+Package biblatex Info: Trying to load bibliography style 'mla'...
+Package biblatex Info: ... file 'mla.bbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex-mla/mla.bbx
+File: mla.bbx 2022/02/22 v2.1a biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'mla-strict'...
+Package biblatex Info: ... file 'mla-strict.bbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex-mla/mla-strict.bbx
+File: mla-strict.bbx 2022/02/22 v2.1a biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count399
+\c@bbx:relatedtotal=\count400
+)
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+\c@containing=\count401
+)))
+Package biblatex Info: Trying to load citation style 'mla-new'...
+Package biblatex Info: ... file 'mla-new.cbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex-mla/mla-new.cbx
+File: mla-new.cbx 2022/02/22 v2.1a biblatex citation style
+Package biblatex Info: Trying to load citation style 'mla'...
+Package biblatex Info: ... file 'mla.cbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex-mla/mla.cbx
+File: mla.cbx 2022/02/22 v2.1a biblatex citation style
+Package biblatex Info: Trying to load citation style 'mla-footnotes'...
+Package biblatex Info: ... file 'mla-footnotes.cbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex-mla/mla-footnotes.cbx
+File: mla-footnotes.cbx 2022/02/22 v2.1a biblatex citation style
+)
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citetitle'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-11-02 L3 programming layer (loader) 
+ (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count402
+\l__pdf_internal_box=\box53
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-11-02 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+)) (c:/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (c:/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen148
+\captionmargin=\dimen149
+\caption@leftmargin=\dimen150
+\caption@rightmargin=\dimen151
+\caption@width=\dimen152
+\caption@indent=\dimen153
+\caption@parindent=\dimen154
+\caption@hangindent=\dimen155
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count403
+\c@continuedfloat=\count404
+) (c:/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count405
+\float@exts=\toks22
+\float@box=\box54
+\@float@everytoks=\toks23
+\@floatcapt=\box55
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+) (c:/texlive/2022/texmf-dist/tex/latex/enotez/enotez.sty (c:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+) (c:/texlive/2022/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2022-06-22 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen158
+\l__xtemplate_tmp_int=\count406
+\l__xtemplate_tmp_muskip=\muskip21
+\l__xtemplate_tmp_skip=\skip106
+)
+Package: enotez 2022/01/04 v0.10d Endnotes for LaTeX2e
+\l__enotez_list_preamble_skip=\skip107
+\l__enotez_list_postamble_skip=\skip108
+\g__enotez_endnote_id_int=\count407
+\g__enotez_endnote_mark_int=\count408
+\c@endnote=\count409
+\g__enotez_list_printed_int=\count410
+\l__enotez_tmpa_int=\count411
+
+Package xtemplate Info: Declaring object type 'enotez-list' taking 1
+(xtemplate)             argument(s) on line 473.
+
+\l__enotez_list_notes_sep_dim=\dimen159
+ (c:/texlive/2022/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+)) (c:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+ (c:/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (c:/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+ (c:/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count412
+)
+\@linkdim=\dimen160
+\Hy@linkcounter=\count413
+\Hy@pagecounter=\count414
+ (c:/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (c:/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (c:/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count415
+ (c:/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count416
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen161
+ (c:/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (c:/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count417
+\Field@Width=\dimen162
+\Fld@charsize=\dimen163
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+ (c:/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count418
+\c@Item=\count419
+\c@Hfootnote=\count420
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (c:/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+ (c:/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count421
+\c@bookmark@seq@number=\count422
+ (c:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (c:/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip109
+)
+
+Package hyperref Warning: Option `pdfusetitle' has already been used,
+(hyperref)                setting the option has no effect on input line 113.
+
+\enitdp@mlanotes=\count423
+) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip110
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen164
+)) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count424
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count425
+\leftroot@=\count426
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count427
+\DOTSCASE@=\count428
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count429
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count430
+\dotsspace@=\muskip22
+\c@parentequation=\count431
+\dspbrk@lvl=\count432
+\tag@help=\toks25
+\row@=\count433
+\column@=\count434
+\maxfields@=\count435
+\andhelp@=\toks26
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks27
+\multlinegap=\skip111
+\multlinetaggap=\skip112
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
+\MT@toks=\toks29
+\MT@tempbox=\box58
+\MT@count=\count436
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
+\MT@outer@kern=\dimen173
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+\MT@listname@count=\count437
+ (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
+\MT@outer@space=\skip113
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+))
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 13.
+ (c:/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 13.
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'american'.
+ (./Imaginary_Coeffiencts.aux)
+\openout1 = `Imaginary_Coeffiencts.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+\c@mv@tabular=\count438
+\c@mv@boldtabular=\count439
+Package biblatex Info: Trying to load language 'american' -> 'american-mla'...
+Package biblatex Info: ... file 'american-mla.lbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex-mla/american-mla.lbx
+File: american-mla.lbx 2022/02/22 v2.1a biblatex style localization
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
+Package biblatex Info: ... file 'english-mla.lbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex-mla/english-mla.lbx
+File: english-mla.lbx 2022/02/22 v2.1a biblatex style localization
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)))
+Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
+Package biblatex Info: ... file 'english-mla.lbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex-mla/english-mla.lbx
+File: english-mla.lbx 2022/02/22 v2.1a biblatex style localization
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `Imaginary_Coeffiencts.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Imaginary_Coeffiencts.bbl' found.
+ (./Imaginary_Coeffiencts.bbl)
+Package biblatex Info: Reference section=0 on input line 13.
+Package biblatex Info: Reference segment=0 on input line 13.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count440
+\scratchdimen=\dimen174
+\scratchbox=\box59
+\nofMPsegments=\count441
+\nofMParguments=\count442
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count443
+\MPscratchDim=\dimen175
+\MPnumerator=\count444
+\makeMPintoPDFobject=\count445
+\everyMPtoPDFconversion=\toks31
+) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (c:/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (c:/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
+)
+Package hyperref Info: Link coloring OFF on input line 13.
+ (./Imaginary_Coeffiencts.out) (./Imaginary_Coeffiencts.out)
+\@outlinefile=\write4
+\openout4 = `Imaginary_Coeffiencts.out'.
+
+LaTeX Info: Redefining \microtypecontext on input line 13.
+Package microtype Info: Applying patch `item' on input line 13.
+Package microtype Info: Applying patch `toc' on input line 13.
+Package microtype Info: Applying patch `eqnum' on input line 13.
+Package microtype Info: Applying patch `footnote' on input line 13.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 13.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.0pt on input line 16.
+ (c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+Overfull \hbox (0.17992pt too wide) in paragraph at lines 16--17
+\OT1/ntxtlf/m/n/12 (+17) method that was applied to the time-independent Schr[]odinger's equations that is commonly used 
+ []
+
+
+Overfull \hbox (0.13887pt too wide) in paragraph at lines 18--19
+\OT1/ntxtlf/m/n/12 (+19) and q = $\OMS/cmsy/m/n/12 <\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^V\OT1/cmr/m/n/12 )$\OT1/ntxtlf/m/n/12 (+19) . What was done was that they gave a proof for a method to show the existence of a 
+ []
+
+[1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+] [2]
+
+LaTeX Warning: Empty bibliography on input line 83.
+
+[3] (./Imaginary_Coeffiencts.aux)
+Package rerunfilecheck Info: File `Imaginary_Coeffiencts.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package logreq Info: Writing requests to 'Imaginary_Coeffiencts.run.xml'.
+\openout1 = `Imaginary_Coeffiencts.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 25024 strings out of 474971
+ 465624 string characters out of 5780120
+ 1333887 words of memory out of 5000000
+ 46145 multiletter control sequences out of 15000+600000
+ 480120 words of font info for 80 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,12n,131p,1498b,4517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
+Output written on Imaginary_Coeffiencts.pdf (3 pages, 149526 bytes).
+PDF statistics:
+ 72 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
+ 15361 words of extra memory for PDF output out of 17280 (max. 10000000)
+
