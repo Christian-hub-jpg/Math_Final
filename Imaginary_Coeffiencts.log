@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.17)  10 DEC 2022 21:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.17)  10 DEC 2022 22:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -652,34 +652,13 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
-\MT@toks=\toks29
-\MT@tempbox=\box58
-\MT@count=\count436
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
-LaTeX Info: Redefining \leftprotrusion on input line 1046.
-LaTeX Info: Redefining \rightprotrusion on input line 1056.
-LaTeX Info: Redefining \textls on input line 1234.
-\MT@outer@kern=\dimen173
-LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
-\MT@listname@count=\count437
- (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
-LaTeX Info: Redefining \lsstyle on input line 900.
-LaTeX Info: Redefining \lslig on input line 900.
-\MT@outer@space=\skip113
 )
-Package microtype Info: Loading configuration file microtype.cfg.
- (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
-))
-LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 13.
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 11.
  (c:/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 13.
+(Font)              scaled to size 12.0pt on input line 11.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -687,26 +666,26 @@ Package csquotes Info: Redefining alias 'default' -> 'american'.
  (./Imaginary_Coeffiencts.aux)
 \openout1 = `Imaginary_Coeffiencts.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-\c@mv@tabular=\count438
-\c@mv@boldtabular=\count439
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+\c@mv@tabular=\count436
+\c@mv@boldtabular=\count437
 Package biblatex Info: Trying to load language 'american' -> 'american-mla'...
 Package biblatex Info: ... file 'american-mla.lbx' found.
  (c:/texlive/2022/texmf-dist/tex/latex/biblatex-mla/american-mla.lbx
@@ -741,25 +720,25 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Imaginary_Coeffiencts.bbl' found.
  (./Imaginary_Coeffiencts.bbl)
-Package biblatex Info: Reference section=0 on input line 13.
-Package biblatex Info: Reference segment=0 on input line 13.
+Package biblatex Info: Reference section=0 on input line 11.
+Package biblatex Info: Reference segment=0 on input line 11.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count440
-\scratchdimen=\dimen174
-\scratchbox=\box59
-\nofMPsegments=\count441
-\nofMParguments=\count442
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count443
-\MPscratchDim=\dimen175
-\MPnumerator=\count444
-\makeMPintoPDFobject=\count445
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count438
+\scratchdimen=\dimen173
+\scratchbox=\box58
+\nofMPsegments=\count439
+\nofMParguments=\count440
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count441
+\MPscratchDim=\dimen174
+\MPnumerator=\count442
+\makeMPintoPDFobject=\count443
+\everyMPtoPDFconversion=\toks30
 ) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
  (c:/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
@@ -774,50 +753,16 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) (c:/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 11.
  (./Imaginary_Coeffiencts.out) (./Imaginary_Coeffiencts.out)
 \@outlinefile=\write4
 \openout4 = `Imaginary_Coeffiencts.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 13.
-Package microtype Info: Applying patch `item' on input line 13.
-Package microtype Info: Applying patch `toc' on input line 13.
-Package microtype Info: Applying patch `eqnum' on input line 13.
-Package microtype Info: Applying patch `footnote' on input line 13.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 13.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
- (c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
-)
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 16.
- (c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-)
-Overfull \hbox (0.17992pt too wide) in paragraph at lines 16--17
-\OT1/ntxtlf/m/n/12 (+17) method that was applied to the time-independent Schr[]odinger's equations that is commonly used 
- []
+(Font)              scaled to size 12.0pt on input line 14.
+ [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-
-Overfull \hbox (0.13887pt too wide) in paragraph at lines 18--19
-\OT1/ntxtlf/m/n/12 (+19) and q = $\OMS/cmsy/m/n/12 <\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^V\OT1/cmr/m/n/12 )$\OT1/ntxtlf/m/n/12 (+19) . What was done was that they gave a proof for a method to show the existence of a 
- []
-
-[1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-] [2]
-
-LaTeX Warning: Empty bibliography on input line 83.
-
-[3] (./Imaginary_Coeffiencts.aux)
+] [2] [3] (./Imaginary_Coeffiencts.aux)
 Package rerunfilecheck Info: File `Imaginary_Coeffiencts.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'Imaginary_Coeffiencts.run.xml'.
@@ -825,18 +770,18 @@ Package logreq Info: Writing requests to 'Imaginary_Coeffiencts.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25024 strings out of 474971
- 465624 string characters out of 5780120
- 1333887 words of memory out of 5000000
- 46145 multiletter control sequences out of 15000+600000
- 480120 words of font info for 80 fonts, out of 8000000 for 9000
+ 23216 strings out of 474971
+ 433144 string characters out of 5780120
+ 1271593 words of memory out of 5000000
+ 44406 multiletter control sequences out of 15000+600000
+ 477400 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,12n,131p,1498b,4517s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Imaginary_Coeffiencts.pdf (3 pages, 149526 bytes).
+Output written on Imaginary_Coeffiencts.pdf (3 pages, 148438 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
- 15361 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,16 +1,16 @@
 # Fdb version 3
-["biber Imaginary_Coeffiencts"] 1670726350 "Imaginary_Coeffiencts.bcf" "Imaginary_Coeffiencts.bbl" "Imaginary_Coeffiencts" 1670726460
-  "Imaginary_Coeffiencts.bcf" 1670726459 122317 fd3ffe353c8f0b18bbfa7e6205a421fe "pdflatex"
+["biber Imaginary_Coeffiencts"] 1670729355 "Imaginary_Coeffiencts.bcf" "Imaginary_Coeffiencts.bbl" "Imaginary_Coeffiencts" 1670729516
+  "Imaginary_Coeffiencts.bcf" 1670729516 121967 3728cc957d5cf207af2856a5619dc5b2 "pdflatex"
   (generated)
   "Imaginary_Coeffiencts.bbl"
   "Imaginary_Coeffiencts.blg"
-["pdflatex"] 1670726456 "c:/Users/gumba/OneDrive/Documents/Code/Math_Final/Imaginary_Coeffiencts.tex" "Imaginary_Coeffiencts.pdf" "Imaginary_Coeffiencts" 1670726460
-  "Imaginary_Coeffiencts.aux" 1670726459 744 e03b14ef1ca529765a7042dba710a9a2 "pdflatex"
+["pdflatex"] 1670729513 "c:/Users/gumba/OneDrive/Documents/Code/Math_Final/Imaginary_Coeffiencts.tex" "Imaginary_Coeffiencts.pdf" "Imaginary_Coeffiencts" 1670729516
+  "Imaginary_Coeffiencts.aux" 1670729515 744 e03b14ef1ca529765a7042dba710a9a2 "pdflatex"
   "Imaginary_Coeffiencts.bbl" 0 -1 0 "biber Imaginary_Coeffiencts"
   "Imaginary_Coeffiencts.out" 0 -1 0 "pdflatex"
-  "Imaginary_Coeffiencts.run.xml" 1670726459 2571 ad23033275448ad3b403d697637d059d "pdflatex"
-  "Imaginary_Coeffiencts.tex" 1670726455 6011 8f9810c985e382ac0450345277e6e427 ""
-  "c:/Users/gumba/OneDrive/Documents/Code/Math_Final/Imaginary_Coeffiencts.tex" 1670726455 6011 8f9810c985e382ac0450345277e6e427 ""
+  "Imaginary_Coeffiencts.run.xml" 1670729516 2571 ad23033275448ad3b403d697637d059d "pdflatex"
+  "Imaginary_Coeffiencts.tex" 1670729512 6107 43f27b2c23cb66899d8332de4f1a0c6b ""
+  "c:/Users/gumba/OneDrive/Documents/Code/Math_Final/Imaginary_Coeffiencts.tex" 1670729512 6107 43f27b2c23cb66899d8332de4f1a0c6b ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1668738860 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1668737373 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1668735755 1004 54797486969f23fa377b128694d548df ""
@@ -140,11 +140,6 @@
   "c:/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty" 1668738224 5766 13a9e8766c47f30327caf893ece86ac8 ""
   "c:/texlive/2022/texmf-dist/tex/latex/logreq/logreq.def" 1668738326 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "c:/texlive/2022/texmf-dist/tex/latex/logreq/logreq.sty" 1668738326 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
-  "c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype-pdftex.def" 1668738641 48133 e8bc83615d2f0051186c09dbec3390e0 ""
-  "c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.cfg" 1668738641 26842 ebf85e9b6a3e20f9fb2638bd26a568c1 ""
-  "c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty" 1668738641 93090 81aca77406cb7fe6004d4af8e22e7534 ""
-  "c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg" 1668738641 22906 391012403cdd24e0eff9edb7797213df ""
-  "c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-ptm.cfg" 1668738641 12427 c94e93a4578ad1c572e00fb1587382dc ""
   "c:/texlive/2022/texmf-dist/tex/latex/mlacls/mla.cls" 1668738682 7515 cccab26136c129b8cede0c221eb29d6e ""
   "c:/texlive/2022/texmf-dist/tex/latex/mweights/mweights.sty" 1668738797 4953 67f29a12ea26221103fce6bae3433e60 ""
   "c:/texlive/2022/texmf-dist/tex/latex/newtx/newtxtext.sty" 1668738861 20265 f1413503dd35ad684243babd2d30b6c1 ""
