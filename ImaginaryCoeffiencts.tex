@@ -1,12 +1,12 @@
 \documentclass[mla8]{mla}
 \usepackage{graphicx}
 \usepackage{amsmath}
-\usepackage{biblatex}
 \title{Imaginary Coefficients}
 \author{Christian Nunez}
 \professor{Stanley Huddy}
 \course{Differential Equations}
 \date{12 December 2022}
+\addbibresource{ImaginaryCoeffiencts.bib}
 
 \begin{document}
 \begin{paper}
@@ -61,25 +61,73 @@ Then, in order to show that $\mathit{g}$ is a solution to the general form of th
     $g^\prime (x)= \lambda g(x) + r(x)\ =\ y^{\prime \prime}(x)+\alpha y^{\prime}(x)+\beta y(x)-r(x)$
 \end{center}
     
-Since these are equal that means that $\mathit{g}$ the solution to the first-order differential equation $\mathit{g}$ is also the solution to the second-order differential equation $\mathit{y}$. Now, since previously $\mathit{z}$ is shown to be a second-order differential equation when in terms of $\mathit{y}$, this means that $\mathit{g}$ is also a solution to $\mathit{z}$. 
-
-Then, assuming that the differential equation $\mathit{y} \leq \varepsilon$ we get
+Since these are equal that means that $\mathit{g}$ the solution to the first-order differential equation $\mathit{g}$ is also the solution to the second-order differential equation $\mathit{y}$. Now, since previously $\mathit{z}$ is shown to be a second-order differential equation when in terms of $\mathit{y}$, this means that $\mathit{g}$ is also a solution to $\mathit{z}$. Then, assuming that the differential equation $\mathit{y} \leq \varepsilon$ we get
 \begin{center}
     $|g^\prime (x)= \lambda g(x) + r(x)|\ =\ |y^{\prime \prime}(x)+\alpha y^{\prime}(x)+\beta y(x)-r(x)| \leq \varepsilon$
 \end{center}
-
 for when $x$ is inside $\mathit{I}$.
 
-Since, it has already been shown that $\mathit{z}$ is a twice differential linear inhomogeneous function equation with complex constant coefficients and $\mathit{g}$ is a solution to this differential equation we may proceed to see if $|z(x) - g(x)| \leq \varepsilon$. With this we show that $\lambda$ exists as a solution for the differential equation. The following is the work show in the article.
-
+Since, it has already been shown that $\mathit{z}$ is a twice differential linear inhomogeneous function equation with complex constant coefficients and $\mathit{g}$ is a solution to this differential equation we may proceed to see if $|z(x) - g(x)| \leq \frac{\varepsilon}{p q}$. With this we show that $\lambda$ exists as a solution for the differential equation. The following is the work shown in the article.
 $$\begin{aligned}
     |z(x)-g(x)| & =\left|e^{\lambda x} \lim _{s \rightarrow b}\left(g(s) e^{-\lambda s}-g(x) e^{-\lambda x}-\int_x^s r(t) e^{-\lambda t} d t\right)\right| \\ & =e^{p x} \lim _{s \rightarrow b}\left|\int_x^s\left(g(t) e^{-\lambda l}\right)^{\prime} d t-\int_x^s r(t) e^{-\lambda t} d t\right| \\ & \leq e^{p x} \lim _{s \rightarrow b} \int_x^s\left|e^{-\lambda t}\right|\left|g^{\prime}(t)-\lambda g(t)-r(t)\right| d t \\ & \leq \frac{\varepsilon}{p} \lim _{s \rightarrow b}\left(1-e^{-p(s-x)}\right) \leq \frac{\varepsilon}{p} .
 \end{aligned}$$
 
+In order to show that $\mu$ exists as a solution to the differential equation as well. A similar process was used however instead of using $z$ and $g$ they defined for all $x$ inside $I$ solution to the differential equation $y$:
+
+\begin{center}
+    $u(x)=\lim _{s \rightarrow b}\left(y(s) e^{-\mu(s-x)}-e^{\mu x} \int_x^s z(t) e^{-\mu t} d t\right)$
+\end{center}
+Similarly, he differentiates this variable to get
+
+\begin{center}
+    $u^\prime (x)= \mu u(x) + z(x)$, for all x inside $I$
+\end{center}
+ 
+Then, using the definition of $z$ and the definition of $u^\prime$ just found you can show that the function $u^\prime$ is a second-order differential equation for all $x$ inside $I$
+
+\begin{center}
+    $u^{\prime \prime}(x)+\alpha u^{\prime}(x)+\beta u(x)=r(x)$
+\end{center}
+with this implying that $u$ is a solution to a differential equation.
+
+With this we can prove the existence of the solution $\mu$ with a similar method as in proving $\lambda$, however what was proven in this case was $|y(x) - u(x)| \leq \frac{\varepsilon}{p q}$, because $u$ is a solution to $y$ just like $g$ is a solution to $z$. It seems it was done this way so that the math would end up less messy to prove that the inequality is true. The following is the work shown for this proof.
+$$\begin{aligned}
+    |y(x)-u(x)| & =\left|y(x)-\lim _{s \rightarrow b}\left(y(s) e^{-\mu(s-x)}-e^{\mu x} \int_x^s z(t) e^{-\mu l} d t\right)\right| \\
+    & =\left|e^{\mu x}\right| \lim _{s \rightarrow b}\left|y(x) e^{-\mu x}-y(s) e^{-\mu s}+\int_x^s z(t) e^{-\mu l} d t\right| \\
+    & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s z(t) e^{-\mu l} d t-\int_x^s\left(y(t) e^{-\mu l}\right)^{\prime} d t\right| \\
+    & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s e^{-\mu l}\left(z(t)-y^{\prime}(t)+\mu y(t)\right) d t\right| \\
+    & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s e^{-\mu l}(z(t)-g(t)) d t\right| \leq e^{q x} \lim _{s \rightarrow b} \int_x^s e^{-q t} \frac{\varepsilon}{p} d t \\
+    & \leq \frac{\varepsilon}{p q} \lim _{s \rightarrow b}\left(1-e^{-q(\sigma-x)}\right) \leq \frac{\varepsilon}{p q}, \quad \text { for all } x \text{ inside } I .
+\end{aligned}$$
+
+The article then processes in Theorem 2.2, to prove the rest of the possible cases of p and q that could occur. They start off by using same definitions and assumptions of $I$, $y(x)$, $r(x)$, $g(x)$ and $z(x)$ and used in Theorem 2.1. However, they assume that p and q are nonnegative numbers now, so with this they show that a solution $u$, with an input of a value in $I$ and an output of a number in the complex plane, to the differential equation exists for all $x$ inside $I$ when the inequality for its respective case of p and q is true.
+$$
+|y(x)-u(x)| \leq \begin{cases}\frac{\varepsilon}{p q} & (\text { for } p, q>0), \\ \frac{\varepsilon}{q}(b-a) & (\text { for } p=0, q>0), \\ \frac{\varepsilon}{2}(b-a)^2 & (\text { for } p=q=0)\end{cases}
+$$
+
+For when $p = 0$ and $q > 0$, when doing the same procedure to prove $\lambda$ as in Theorem 2.1, the following was found for all $x$ in $I$
+\begin{center}
+    $|z(x)-g(x)| \leq(b-x) \varepsilon$
+\end{center}
+The was also done to prove the existence of $\mu$ to get
+
+\begin{center}
+    $\begin{aligned}|y(x)-u(x)| & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s e^{-\mu l}(z(t)-g(t)) d t\right| \\ & \leq e^{q x} \lim _{s \rightarrow b} \int_x^s e^{-q t} \varepsilon(b-t) d t \leq \frac{(b-a) \varepsilon}{q}, \quad \text { for all } x \text{ inside } I .\end{aligned}$
+\end{center}
+
+
+
+
 
 \end{paper}
+\nocite{*}
+\begin{workscited}
 
-
+    \printbibliography[heading=none]
+    
+\end{workscited}
 \end{document}
+
+
 %https://www.sciencedirect.com/science/article/pii/S089396591630324X
 %https://www.sciencedirect.com/science/article/pii/B9780124172197000041
