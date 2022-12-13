@@ -1,4 +1,4 @@
-\documentclass[mla8]{mla}
+\documentclass[mla9]{mla}
 \usepackage{graphicx}
 \usepackage{amsmath}
 \title{Imaginary Coefficients}
@@ -11,15 +11,15 @@
 \begin{document}
 \begin{paper}
 
-In the peer reviewed article \textit{The linear differential equations with complex constant coefficients and Schrödinger equations} by Soon-Mo Jung and Jaiok Roh they demonstrate a possible solution to a second-order inhomogeneous linear differential equations 
+In the peer reviewed article, \textit{The linear differential equations with complex constant coefficients and Schrödinger equations}, by Soon-Mo Jung and Jaiok Roh, they demonstrate a possible way to check for the existence of a solution to a second-order inhomogeneous linear differential equation with the general form
 \begin{center}
 $y^{\prime \prime}(x)+\alpha y^{\prime}(x)+\beta y(x)=r(x)$
 \end{center}
-with complex constant coefficients, by looking at some characteristics of approximate solutions to these kind of differential equations. As a practical example to this method that was applied to the time-independent Schrödinger's equations that is commonly used in quantum mechanics to describe the behavior of electrons when there is no observer.
+with complex constant coefficients, by looking at some characteristics of solutions to these kinds of differential equations. As a practical example to this method it was applied to the time-independent Schrödinger's equation that is commonly used in quantum mechanics to describe the behavior of electrons when there is no observer involved.
 
-In order to prove the existence of solution to a second-order inhomogeneous linear differential equation with complex constant coefficients, $y^{\prime \prime}(x)+\alpha y^{\prime}(x)+\beta y(x)=r(x)$, where $\alpha$ and $\beta$ are complex-valued constants and $\mathit{r}$ is a continuous function with a complex-valued output. Denoting $\lambda$ and $\mu$ are the roots to the characteristic equation, $x^2+\alpha x + \beta = 0$, where p is equal to the real part of $\lambda$ and q is equal to the real part of $\mu$. What was done was that a method to show the existence of a solution to these types of differential equations was made, then in order to prove that this method works it was proven for all possible cases of p and q that could arise in a problem.
+In order to prove the existence of a solution to a second-order inhomogeneous linear differential equation with complex constant coefficients, $y^{\prime \prime}(x)+\alpha y^{\prime}(x)+\beta y(x)=r(x)$, where $\alpha$ and $\beta$ are complex-valued constants and $\mathit{r}$ is a continuous function with a complex-valued output. They, first denoted $\lambda$ and $\mu$ as the roots to the characteristic equation, $x^2+\alpha x + \beta = 0$, where $p$ is equal to the real part of $\lambda$ and $q$ is equal to the real part of $\mu$. What was done after this was that a method to show the existence of a solutions to these types of differential equations was defined, then in order to prove that this method worked it was proven for all possible cases of $p$ and $q$ that could arise in a problem.
 
-In Theorem 2.1, they show, assuming that both p and q are positive numbers, if one lets $\mathit{I}$ be any open interval between $-\infty$ and $\infty$. For a second-order continuous differential equation with complex constants $\mathit{y}$ and a continuous function with complex values $\mathit{r}$, we define the following functions with $x$ being a value inside $\mathit{I}$: 
+In Theorem 2.1, they assume that both $p$ and $q$ are positive numbers and show if one lets $\mathit{I}$ be any open interval between $-\infty$ and $\infty$. For a twice continuously differential equation with complex constants $\mathit{y}$ and a continuous function with complex values $\mathit{r}$, we define the following functions with $x$ being a value inside $\mathit{I}$. 
 
 
 \begin{center}
@@ -27,10 +27,7 @@ In Theorem 2.1, they show, assuming that both p and q are positive numbers, if o
     $g(x)=y^{\prime}(x)-\mu y(x)$, & $z(x)=\lim _{s \rightarrow b}\left(g(s) e^{-\lambda(s-x)}-e^{\lambda x} \int_x^s r(t) e^{-\lambda t} d t\right)$
     \end{tabular}
 \end{center}
-
-\begin{noindent}
-     With this the following exists for any value of x inside $\mathit{I}$:
-\end{noindent}
+ With this, the following are also assumed to exist for any value of x inside $\mathit{I}$
 
 
 \begin{center}
@@ -39,7 +36,7 @@ In Theorem 2.1, they show, assuming that both p and q are positive numbers, if o
     \end{tabular}
 \end{center}
 
-They explain that, given that $\varepsilon \geq 0$, assuming that $\mathit{y}$ satisfies the following inequality for all x inside $\mathit{I}$:
+They then explain that, given that $\varepsilon \geq 0$, assuming that $\mathit{y}$ satisfies the following inequality for all x inside $\mathit{I}$:
 
 \begin{center}
     $\left|y^{\prime \prime}(x)+\alpha y^{\prime}(x)+\beta y(x)-r(x)\right| \leq \varepsilon$
@@ -51,78 +48,131 @@ Then, there should exist a complex-valued solution $\mathit{u}$ to the different
     $|y(x)-u(x)| \leq \frac{\varepsilon}{p q}$
 \end{center}
 
-To demonstrate this method he first differentiates $\mathit{z}$ with respect to $\mathit{x}$, in order to find that $\mathit{z}$ is a first-order differential equation when in terms of $\mathit{g}$, but a second-order differential equation when in terms of $\mathit{y}$ for any x inside $\mathit{I}$. This is shown below.
+To demonstrate this method they first differentiate $\mathit{z}$ with respect to $\mathit{x}$, in order to find that $\mathit{z}$ is a first-order differential equation when its definition is defined in terms of $\mathit{g}$, but a second-order differential equation when in its definition is defined in terms of $\mathit{y}$ for any $x$ inside $\mathit{I}$. This result below comes from Jung and Roh's article.
 \begin{center}
     $z^\prime (x)= \lambda z(x) + r(x)$
 \end{center}
 
-Then, in order to show that $\mathit{g}$ is a solution to the general form of the second-order inhomogeneous differential equation $\mathit{y}$ and in turn showing that it is a solution to $\mathit{z}$. Turned $\mathit{g}$ into the form of a first-order differential equation and plugged in $\mathit{g}$ that was previous defined in terms of $\mathit{y}$ and doing this found that it could be turned into the the form of the second-order differential equation defined in terms of $\mathit{y}$.
+Then, in order to show that $\mathit{g}$ is a solution to the general form of the second-order inhomogeneous differential equation $\mathit{y}$ and in turn showing that it is a solution to $\mathit{z}$. They turned $\mathit{g}$ into the form of a first-order differential equation and plugged in $\mathit{g}$ that was previously defined in terms of $\mathit{y}$ and doing so found that it could be turned into the form of the second-order differential equation defined in terms of $\mathit{y}$ seen below.
 \begin{center}
-    $g^\prime (x)= \lambda g(x) + r(x)\ =\ y^{\prime \prime}(x)+\alpha y^{\prime}(x)+\beta y(x)-r(x)$
+    $g^\prime (x)- \lambda g(x) - r(x)\ =\ y^{\prime \prime}(x)+\alpha y^{\prime}(x)+\beta y(x)-r(x)$
 \end{center}
     
-Since these are equal that means that $\mathit{g}$ the solution to the first-order differential equation $\mathit{g}$ is also the solution to the second-order differential equation $\mathit{y}$. Now, since previously $\mathit{z}$ is shown to be a second-order differential equation when in terms of $\mathit{y}$, this means that $\mathit{g}$ is also a solution to $\mathit{z}$. Then, assuming that the differential equation $\mathit{y} \leq \varepsilon$ we get
+Since, these are equal that means that $\mathit{g}$ the solution to the first-order differential equation $\mathit{g}$ is also the solution to the general form of a second-order differential equation $\mathit{y}$. Now, since previously $\mathit{z}$ is shown to be a second-order differential equation when in terms of $\mathit{y}$, this means that $\mathit{g}$ is also a solution to $\mathit{z}$. Then, assuming that the differential equation $\mathit{y} \leq \varepsilon$ we get
 \begin{center}
-    $|g^\prime (x)= \lambda g(x) + r(x)|\ =\ |y^{\prime \prime}(x)+\alpha y^{\prime}(x)+\beta y(x)-r(x)| \leq \varepsilon$
+    $|g^\prime (x)- \lambda g(x) - r(x)|\ =\ |y^{\prime \prime}(x)+\alpha y^{\prime}(x)+\beta y(x)-r(x)| \leq \varepsilon$
 \end{center}
 for when $x$ is inside $\mathit{I}$.
 
-Since, it has already been shown that $\mathit{z}$ is a twice differential linear inhomogeneous function equation with complex constant coefficients and $\mathit{g}$ is a solution to this differential equation we may proceed to see if $|z(x) - g(x)| \leq \frac{\varepsilon}{p q}$. With this we show that $\lambda$ exists as a solution for the differential equation. The following is the work shown in the article.
-$$\begin{aligned}
-    |z(x)-g(x)| & =\left|e^{\lambda x} \lim _{s \rightarrow b}\left(g(s) e^{-\lambda s}-g(x) e^{-\lambda x}-\int_x^s r(t) e^{-\lambda t} d t\right)\right| \\ & =e^{p x} \lim _{s \rightarrow b}\left|\int_x^s\left(g(t) e^{-\lambda l}\right)^{\prime} d t-\int_x^s r(t) e^{-\lambda t} d t\right| \\ & \leq e^{p x} \lim _{s \rightarrow b} \int_x^s\left|e^{-\lambda t}\right|\left|g^{\prime}(t)-\lambda g(t)-r(t)\right| d t \\ & \leq \frac{\varepsilon}{p} \lim _{s \rightarrow b}\left(1-e^{-p(s-x)}\right) \leq \frac{\varepsilon}{p} .
-\end{aligned}$$
+Since, it has already been shown that $\mathit{z}$ is a twice differential linear inhomogeneous differential equation with complex constant coefficients and $\mathit{g}$ is a solution to this differential equation, we may proceed to see if $|z(x) - g(x)| \leq \frac{\varepsilon}{p q}$. With this we show that $\lambda$ exists as a solution for the differential equation. The following is the work from Jung and Roh's article.
+\[\begin{aligned}
+    |z(x)-g(x)| & =\left|e^{\lambda x} \lim _{s \rightarrow b}\left(g(s) e^{-\lambda s}-g(x) e^{-\lambda x}-\int_x^s r(t) e^{-\lambda t} d t\right)\right| \\ & =e^{p x} \lim _{s \rightarrow b}\left|\int_x^s\left(g(t) e^{-\lambda t}\right)^{\prime} d t-\int_x^s r(t) e^{-\lambda t} d t\right| \\ & \leq e^{p x} \lim _{s \rightarrow b} \int_x^s\left|e^{-\lambda t}\right|\left|g^{\prime}(t)-\lambda g(t)-r(t)\right| d t \\ & \leq \frac{\varepsilon}{p} \lim _{s \rightarrow b}\left(1-e^{-p(s-x)}\right) \leq \frac{\varepsilon}{p} .
+\end{aligned}\]
 
-In order to show that $\mu$ exists as a solution to the differential equation as well. A similar process was used however instead of using $z$ and $g$ they defined for all $x$ inside $I$ solution to the differential equation $y$:
+In order to show that $\mu$ exists as a solution to the differential equation as well. A similar process was used however instead of using $z$ and $g$ they defined for all $x$ inside $I$, a solution $u$ to the differential equation $y$:
 
 \begin{center}
     $u(x)=\lim _{s \rightarrow b}\left(y(s) e^{-\mu(s-x)}-e^{\mu x} \int_x^s z(t) e^{-\mu t} d t\right)$
 \end{center}
-Similarly, he differentiates this variable to get
+Similarly to the previous procedure, they differentiate $u$ to get
 
 \begin{center}
-    $u^\prime (x)= \mu u(x) + z(x)$, for all x inside $I$
+    $u^\prime (x)= \mu u(x) + z(x)$,\ \ for all x inside $I$
 \end{center}
  
-Then, using the definition of $z$ and the definition of $u^\prime$ just found you can show that the function $u^\prime$ is a second-order differential equation for all $x$ inside $I$
+Then, using the definition of $z$ and the definition of $u^\prime$ that was just found you can show that the function $u^\prime$ is a second-order differential equation for all $x$ inside $I$
 
 \begin{center}
     $u^{\prime \prime}(x)+\alpha u^{\prime}(x)+\beta u(x)=r(x)$
 \end{center}
-with this implying that $u$ is a solution to a differential equation.
+with this also implying that $u$ is a solution to a differential equation.
 
-With this we can prove the existence of the solution $\mu$ with a similar method as in proving $\lambda$, however what was proven in this case was $|y(x) - u(x)| \leq \frac{\varepsilon}{p q}$, because $u$ is a solution to $y$ just like $g$ is a solution to $z$. It seems it was done this way so that the math would end up less messy to prove that the inequality is true. The following is the work shown for this proof.
-$$\begin{aligned}
-    |y(x)-u(x)| & =\left|y(x)-\lim _{s \rightarrow b}\left(y(s) e^{-\mu(s-x)}-e^{\mu x} \int_x^s z(t) e^{-\mu l} d t\right)\right| \\
-    & =\left|e^{\mu x}\right| \lim _{s \rightarrow b}\left|y(x) e^{-\mu x}-y(s) e^{-\mu s}+\int_x^s z(t) e^{-\mu l} d t\right| \\
-    & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s z(t) e^{-\mu l} d t-\int_x^s\left(y(t) e^{-\mu l}\right)^{\prime} d t\right| \\
-    & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s e^{-\mu l}\left(z(t)-y^{\prime}(t)+\mu y(t)\right) d t\right| \\
-    & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s e^{-\mu l}(z(t)-g(t)) d t\right| \leq e^{q x} \lim _{s \rightarrow b} \int_x^s e^{-q t} \frac{\varepsilon}{p} d t \\
-    & \leq \frac{\varepsilon}{p q} \lim _{s \rightarrow b}\left(1-e^{-q(\sigma-x)}\right) \leq \frac{\varepsilon}{p q}, \quad \text { for all } x \text{ inside } I .
-\end{aligned}$$
+With this we can prove the existence of the solution $\mu$ with a similar method as in proving $\lambda$, however what was proven in this case was $|y(x) - u(x)| \leq \frac{\varepsilon}{p q}$, because $u$ is a solution to $y$ just like $g$ is a solution to $z$. It seems it was done this way so that the math would end up less messy to prove that the inequality is true. The following is the work shown inside Jung and Roh's article.
+\[\begin{aligned}
+    |y(x)-u(x)| & =\left|y(x)-\lim _{s \rightarrow b}\left(y(s) e^{-\mu(s-x)}-e^{\mu x} \int_x^s z(t) e^{-\mu t} d t\right)\right| \\
+    & =\left|e^{\mu x}\right| \lim _{s \rightarrow b}\left|y(x) e^{-\mu x}-y(s) e^{-\mu s}+\int_x^s z(t) e^{-\mu t} d t\right| \\
+    & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s z(t) e^{-\mu t} d t-\int_x^s\left(y(t) e^{-\mu t}\right)^{\prime} d t\right| \\
+    & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s e^{-\mu t}\left(z(t)-y^{\prime}(t)+\mu y(t)\right) d t\right| \\
+    & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s e^{-\mu t}(z(t)-g(t)) d t\right| \leq e^{q x} \lim _{s \rightarrow b} \int_x^s e^{-q t} \frac{\varepsilon}{p} d t \\
+    & \leq \frac{\varepsilon}{p q} \lim _{s \rightarrow b}\left(1-e^{-q(\sigma-x)}\right) \leq \frac{\varepsilon}{p q}, \quad \text { for all } x \text{ inside } I.
+\end{aligned}\]
 
-The article then processes in Theorem 2.2, to prove the rest of the possible cases of p and q that could occur. They start off by using same definitions and assumptions of $I$, $y(x)$, $r(x)$, $g(x)$ and $z(x)$ and used in Theorem 2.1. However, they assume that p and q are nonnegative numbers now, so with this they show that a solution $u$, with an input of a value in $I$ and an output of a number in the complex plane, to the differential equation exists for all $x$ inside $I$ when the inequality for its respective case of p and q is true.
+The article then proceeds in Theorem 2.2, to prove the rest of the possible cases of $p$ and $q$ that could occur. They start off by using the same definitions and assumptions of $I$, $y(x)$, $r(x)$, $g(x)$ and $z(x)$ used in Theorem 2.1. However, they assume that $p$ and $q$ are nonnegative numbers now, so with this they show that a solution $u$, with an input of a value in $I$ and an output of a number in the complex plane, to the differential equation exists for all $x$ inside $I$ when the inequality for its respective case of $p$ and $q$ is true. Below is the group of inequalities for each case of $p$ and $q$ shown in the article.
 $$
 |y(x)-u(x)| \leq \begin{cases}\frac{\varepsilon}{p q} & (\text { for } p, q>0), \\ \frac{\varepsilon}{q}(b-a) & (\text { for } p=0, q>0), \\ \frac{\varepsilon}{2}(b-a)^2 & (\text { for } p=q=0)\end{cases}
 $$
 
-For when $p = 0$ and $q > 0$, when doing the same procedure to prove $\lambda$ as in Theorem 2.1, the following was found for all $x$ in $I$
+For when $p = 0$ and $q > 0$, when doing the same procedure to prove $\lambda$ as in Theorem 2.1, they found the following for all $x$ in $I$
 \begin{center}
     $|z(x)-g(x)| \leq(b-x) \varepsilon$
 \end{center}
-The was also done to prove the existence of $\mu$ to get
+This was also done by them to prove the existence of $\mu$, they did the following
 
 \begin{center}
     $\begin{aligned}|y(x)-u(x)| & =e^{q x} \lim _{s \rightarrow b}\left|\int_x^s e^{-\mu l}(z(t)-g(t)) d t\right| \\ & \leq e^{q x} \lim _{s \rightarrow b} \int_x^s e^{-q t} \varepsilon(b-t) d t \leq \frac{(b-a) \varepsilon}{q}, \quad \text { for all } x \text{ inside } I .\end{aligned}$
 \end{center}
+Similarly, was done with $p=q=0$ where for all $x$ in $I$ they derived and found the following
+\begin{center}
+    $|z(x)-g(x)| \leq(b-x) \varepsilon$
+\end{center}
+and
+\begin{center}
+    $\begin{aligned}|y(x)-u(x)| & =e^{q x} \lim _{x \rightarrow b}\left|\int_x^s e^{-\mu t}(z(t)-g(t)) d t\right| \leq \lim _{x \rightarrow b} \int_x^s \varepsilon(b-t) d t \\ & \leq \frac{(b-x)^2}{2} \varepsilon \leq \frac{(b-a)^2}{2} \varepsilon\end{aligned}$
+\end{center}
 
+Now after this in Remark 2.3, this same process was then repeated but for situations where $p$ and $q$ can become negative and in order to check for the existence of a solution in the following situations, different definitions for the functions $z(x)$ and $u(x)$ were used.
 
+For case 1, when $p < 0$ and $q < 0$, $g(x)$ and $z(x)$ are defined as follows for all $x$ in $I$
+\begin{center}
+    \begin{tabular}{c c}
+    $g(x)=y^{\prime}(x)-\mu y(x)$, & $z(x)=\lim _{s \rightarrow a}\left(g(s) e^{\lambda(x-s)}+e^{\lambda x} \int_s^x r(t) e^{-\lambda t} d t\right)$
+    \end{tabular}
+\end{center}
 
+Following this same procedure as done in Theorem 2.1, they differentiate $z(x)$ to get the same answer as before, showing that it is indeed a second-order differential equation
 
+\begin{center}
+    $z^\prime (x)= \lambda z(x) + r(x)$
+\end{center}
+then, they check if the following inequality, $|z(x) - g(x)| \leq \frac{\varepsilon}{p q}$, is true for all $x$ in $I$ which they find out it is true, proving once again that $\lambda$ does indeed exist as a solution to the differential equation.
+
+\begin{center}
+    $\begin{aligned}|z(x)-g(x)| & =e^{p x} \lim _{x \rightarrow a}\left|\int_s^x e^{-\lambda t}\left(r(t)-g^{\prime}(t)+\lambda g(t)\right) d t\right| \\ & \leq e^{p x} \lim _{x \rightarrow a} \int_s^x e^{-\lambda t}\left|g^{\prime}(t)-\lambda g(t)-r(t)\right| d t \\ & \leq -\frac{\varepsilon}{p}\left(1-e^{p(x-a)}\right) \leq-\frac{\varepsilon}{p}, \quad \text { for all } x \in l\end{aligned}$
+\end{center}
+
+A similar process as before was done with proving the existence of $\mu$ as a solution they first define $u(x)$ as the following for all $x$ in $I$
+
+\begin{center}
+    $u(x)=\lim _{s \rightarrow a}\left(y(s) e^{\mu(x-s)}+e^{\mu x} \int_s^x z(t) e^{-\mu t} d t\right)$
+\end{center}
+
+Now, since $u$ is a solution to the differential equation it satisfies the following inequality $|y(x) - u(x)| \leq \frac{\varepsilon}{p q}$, just like what was since in Theorem 2.1.
+
+For Case 2, when $p < 0$ and $q > 0$, $g(x)$ and $z(x)$ are defined the same as in Case 1 to get for all $x$ in $I$ the following inequility $|z(x) - g(x)| \leq -\frac{\varepsilon}{p}$. Then, the function $u(x)$ using the same definition as in Theorem 2.1 is a solution to $y(x)$, so it satifies the following inequility, $|y(x) - u(x)| \leq \frac{\varepsilon}{p q}$.
+
+Finally, for the last possible combination between $p$ and $q$, Case 3, when $p<0$ and $q=0$, the same definitions for the functions, $g(x)$, $z(x)$ and $u(x)$ as Case 1 are used in this case to proving the existence of $\lambda$ by using the following inequility, $|z(x) - g(x)| \leq -\frac{\varepsilon}{p}$, and $\mu$ using the following inequility, $|y(x) - u(x)| \leq -\frac{\varepsilon}{p}(b-a)$, where for both inequility $x$ is an element inside $I$.
+
+Now, to end the article they demonstrated an application of this method by finding the existence of the solution to a second-order inhomogeneous linear differential equation with a complex constant coefficents using the time-independent Schrodinger equations,
+\[-\frac{\hbar^2}{2 m} \frac{d^2 \psi(x)}{d x^2}+V \psi(x)=E \psi(x)\]
+where $E$ is the total energy inside of the quantum system, $V$ is the potential energy in the quantum system and the wave function $\psi$ is a twice continuously differntiable equation with a input which closed interval between $-\infty$ and $\infty$ and an output which is a number in the complex plane. In particular, it is assumed that $V \leq E$. The roots of the characteristic equation of the Schrodinger equation are found to be the following,
+
+\[
+\lambda=-i \sqrt{\frac{2 m(E-V)}{\hbar^2}} \text { \ \ and \ \ } \mu=i \sqrt{\frac{2 m(E-V)}{\hbar^2}}
+\]
+
+Now, since looking at these roots  it can be seen that the real part of both $p$ and $q$ equal 0. It can be said that by Theorem 2.2, if the function $\psi$ is able to satisfy the following inequality
+\[\left| -\frac{h^2}{2 m} \frac{d^2 \psi(x)}{d x^2}+V \psi(x)-E \psi(x)\right| \leq \varepsilon, \quad \text { for all } x \in I \text {, }\]
+then this means that there exists a solution to the differential equation $\phi$ where the input to this function is $I$ and the output of this function is a number in the complex plane such that
+\[
+|\psi(x)-\phi(x)| \leq \frac{m \varepsilon}{h^2}(b-a)^2, \quad \text { for all } x \in I
+\]
+
+In conclusion, in this article they show that this method of finding the existence of a solution of a second-order inhomogeneous linear differential equation with complex constant coefficents, can be used in many applications to find the existence of both real and non-real constant coefficients second-order inhomogeneous linear differential equations without any restrictions on the roots of the characteristic equation of this function. To demonstrate this versitility of this method was used to show that a solution exists for the time-independent Schrodinger equations.
 
 \end{paper}
-\nocite{*}
-\begin{workscited}
 
+\begin{workscited}
+    \nocite{*}
     \printbibliography[heading=none]
     
 \end{workscited}
